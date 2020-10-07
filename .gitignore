@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# Vim swap
+*.swp
+*.swo
+
 # Setuptools distribution folder.
 /dist/
 /build/
