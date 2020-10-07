@@ -15,9 +15,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
         'dropbox',
-        'oauth2client',
-        'google-api-python-client',
-        'python-decouple'
+        'cd-drive'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
