@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="publicador",
-    version="0.0.1",
+    version="0.0.2",
     author="José Luis Di Biase",
     author_email="josx@camba.coop",
     description="Publicador de archivos en diferentes plataformas",
