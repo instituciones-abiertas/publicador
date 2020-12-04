@@ -2,7 +2,7 @@ cachetools==4.1.1
 cd-drive==0.1
 certifi==2020.6.20
 chardet==3.0.4
-dropbox==10.5.0
+dropbox==11.0.0
 google-api-python-client==1.7.12
 google-auth==1.22.1
 google-auth-httplib2==0.0.3
